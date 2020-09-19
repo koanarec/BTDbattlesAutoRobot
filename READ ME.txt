@@ -1,0 +1,14 @@
+OK This code aint very good. You also won’t be able to use it without reading this.
+
+
+1) It only works with 1080p monitors. You cannot be in fullscreen mode. Have it in windowed mode but maximised.
+
+2) The code only currently works in (most) of the maps. If it isn’t doesn’t detect the map then its because I have not added it
+
+3) It is currently hard coded to (probably) only work if there is a “Zach” in your name. You can fix this by replacing the picture of of “zach” with your user name. This will have to be in the same font and background as NK uses.
+
+4) Its not very good. It tries to eco and rushes about 13 with rainbows, I think it will beat like 40% of players at the lowest level. If you can make the code work then You are probably clever enough to make it better
+
+5) Always add the tack, wiz, cobra in that order. There is functionality to use the tack ultimate but in the version currently it doesn’t use it.
+
+6) Also the money is really bad and it gets it wrong most of the time.
